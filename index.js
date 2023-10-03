@@ -13,5 +13,10 @@ function longestWord(string) {
 }
 
 console.log(longestWord('The weather is cold today'));
+//Returns 'weather'
+
 console.log(longestWord('I am hungry'));
+//Returns 'hungry'
+
 console.log(longestWord('The car is brown'));
+//Returns 'brown'
